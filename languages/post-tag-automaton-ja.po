@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: post-tag automation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-03 07:30+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: tmatsuur <takenori.matsuura@12net.jp>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: C:\\Program Files (x86)\\Apache Group\\Apache2\\htdocs\\\n"
+"X-Poedit-SearchPath-0: wp-content/plugins/post-tag-automaton\n"
+
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:65
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:66
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:132
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:142
+msgid "Similar words"
+msgstr "類義語"
+
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:75
+msgid "1 post is confirmed"
+msgstr "1件の投稿を精査しました"
+
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:75
+#, php-format
+msgid "%d posts are confirmed"
+msgstr "%d件の投稿を精査しました"
+
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:77
+msgid ", "
+msgstr "。"
+
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:78
+msgid "1 post is modified"
+msgstr "1件の投稿を更新"
+
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:78
+#, php-format
+msgid "%d posts are modified"
+msgstr "%d件の投稿を更新"
+
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:79
+msgid "( 1 tag is added )"
+msgstr "（1件の投稿タグを追加）"
+
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:79
+#, php-format
+msgid "( %d tags are added )"
+msgstr "（%d件の投稿タグを追加）"
+
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:81
+msgid "."
+msgstr "。"
+
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:89
+#, php-format
+msgid "The contents of all posts are checked, and <a href=\"%s\">all tags contained in it are added</a>."
+msgstr "投稿済みの記事を調べ、<a href=\"%s\">その中に含まれている投稿タグを追加します</a>。"
+
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:134
+#: wp-content/plugins/post-tag-automaton/post-tag-automaton.php:144
+msgid "Separate words with commas."
+msgstr "類義語を複数登録する場合は、カンマ（,）で区切ってください。"
+
+#~ msgid "1 post checked"
+#~ msgstr "1件の投稿を調べました"
+
+#~ msgid "%d posts checked"
+#~ msgstr "%d件の投稿を調べました"
